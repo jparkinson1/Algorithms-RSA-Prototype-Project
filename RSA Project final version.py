@@ -2,6 +2,8 @@ import random
 import gc
 import math
 
+# Code by: Joshua Parkinson, Nicholas Colet, and Nate Geoghagan
+
 #generate a random number
 def generateNum():
     
